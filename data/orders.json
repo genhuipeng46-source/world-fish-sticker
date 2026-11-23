@@ -1,0 +1,566 @@
+{
+  "version": "0.1.0-skeleton",
+  "taxonomy": "Catalogue of Life 2026-11-11",
+  "totalSpecies": 38184,
+  "orderCount": 93,
+  "orders": [
+    {
+      "order": "Acanthuriformes",
+      "file": "data/species/Acanthuriformes.json",
+      "count": 89,
+      "sizeMB": 0.09
+    },
+    {
+      "order": "Acipenseriformes",
+      "file": "data/species/Acipenseriformes.json",
+      "count": 29,
+      "sizeMB": 0.03
+    },
+    {
+      "order": "Albuliformes",
+      "file": "data/species/Albuliformes.json",
+      "count": 14,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Alepocephaliformes",
+      "file": "data/species/Alepocephaliformes.json",
+      "count": 143,
+      "sizeMB": 0.13
+    },
+    {
+      "order": "Amiiformes",
+      "file": "data/species/Amiiformes.json",
+      "count": 2,
+      "sizeMB": 0.0
+    },
+    {
+      "order": "Anabantiformes",
+      "file": "data/species/Anabantiformes.json",
+      "count": 290,
+      "sizeMB": 0.23
+    },
+    {
+      "order": "Anguilliformes",
+      "file": "data/species/Anguilliformes.json",
+      "count": 1140,
+      "sizeMB": 1.0
+    },
+    {
+      "order": "Apogoniformes",
+      "file": "data/species/Apogoniformes.json",
+      "count": 379,
+      "sizeMB": 0.33
+    },
+    {
+      "order": "Argentiniformes",
+      "file": "data/species/Argentiniformes.json",
+      "count": 100,
+      "sizeMB": 0.09
+    },
+    {
+      "order": "Ateleopodiformes",
+      "file": "data/species/Ateleopodiformes.json",
+      "count": 11,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Atheriniformes",
+      "file": "data/species/Atheriniformes.json",
+      "count": 395,
+      "sizeMB": 0.36
+    },
+    {
+      "order": "Aulopiformes",
+      "file": "data/species/Aulopiformes.json",
+      "count": 309,
+      "sizeMB": 0.27
+    },
+    {
+      "order": "Batrachoidiformes",
+      "file": "data/species/Batrachoidiformes.json",
+      "count": 85,
+      "sizeMB": 0.08
+    },
+    {
+      "order": "Beloniformes",
+      "file": "data/species/Beloniformes.json",
+      "count": 307,
+      "sizeMB": 0.25
+    },
+    {
+      "order": "Beryciformes",
+      "file": "data/species/Beryciformes.json",
+      "count": 138,
+      "sizeMB": 0.12
+    },
+    {
+      "order": "Blenniiformes",
+      "file": "data/species/Blenniiformes.json",
+      "count": 979,
+      "sizeMB": 0.88
+    },
+    {
+      "order": "Callionymiformes",
+      "file": "data/species/Callionymiformes.json",
+      "count": 218,
+      "sizeMB": 0.19
+    },
+    {
+      "order": "Caproiformes",
+      "file": "data/species/Caproiformes.json",
+      "count": 20,
+      "sizeMB": 0.02
+    },
+    {
+      "order": "Carangiformes",
+      "file": "data/species/Carangiformes.json",
+      "count": 186,
+      "sizeMB": 0.17
+    },
+    {
+      "order": "Carcharhiniformes",
+      "file": "data/species/Carcharhiniformes.json",
+      "count": 307,
+      "sizeMB": 0.28
+    },
+    {
+      "order": "Centrarchiformes",
+      "file": "data/species/Centrarchiformes.json",
+      "count": 315,
+      "sizeMB": 0.27
+    },
+    {
+      "order": "Ceratodontiformes",
+      "file": "data/species/Ceratodontiformes.json",
+      "count": 6,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Chaetodontiformes",
+      "file": "data/species/Chaetodontiformes.json",
+      "count": 229,
+      "sizeMB": 0.22
+    },
+    {
+      "order": "Characiformes",
+      "file": "data/species/Characiformes.json",
+      "count": 2446,
+      "sizeMB": 2.13
+    },
+    {
+      "order": "Chimaeriformes",
+      "file": "data/species/Chimaeriformes.json",
+      "count": 59,
+      "sizeMB": 0.05
+    },
+    {
+      "order": "Cichliformes",
+      "file": "data/species/Cichliformes.json",
+      "count": 1817,
+      "sizeMB": 1.64
+    },
+    {
+      "order": "Clupeiformes",
+      "file": "data/species/Clupeiformes.json",
+      "count": 459,
+      "sizeMB": 0.41
+    },
+    {
+      "order": "Coelacanthiformes",
+      "file": "data/species/Coelacanthiformes.json",
+      "count": 2,
+      "sizeMB": 0.0
+    },
+    {
+      "order": "Crossognathiformes",
+      "file": "data/species/Crossognathiformes.json",
+      "count": 1,
+      "sizeMB": 0.0
+    },
+    {
+      "order": "Cypriniformes",
+      "file": "data/species/Cypriniformes.json",
+      "count": 5110,
+      "sizeMB": 4.35
+    },
+    {
+      "order": "Cyprinodontiformes",
+      "file": "data/species/Cyprinodontiformes.json",
+      "count": 1487,
+      "sizeMB": 1.32
+    },
+    {
+      "order": "Dactylopteriformes",
+      "file": "data/species/Dactylopteriformes.json",
+      "count": 14,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Echinorhiniformes",
+      "file": "data/species/Echinorhiniformes.json",
+      "count": 2,
+      "sizeMB": 0.0
+    },
+    {
+      "order": "Elopiformes",
+      "file": "data/species/Elopiformes.json",
+      "count": 9,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Ephippiformes",
+      "file": "data/species/Ephippiformes.json",
+      "count": 18,
+      "sizeMB": 0.02
+    },
+    {
+      "order": "Esociformes",
+      "file": "data/species/Esociformes.json",
+      "count": 14,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Gadiformes",
+      "file": "data/species/Gadiformes.json",
+      "count": 685,
+      "sizeMB": 0.6
+    },
+    {
+      "order": "Galaxiiformes",
+      "file": "data/species/Galaxiiformes.json",
+      "count": 69,
+      "sizeMB": 0.06
+    },
+    {
+      "order": "Gerriformes",
+      "file": "data/species/Gerriformes.json",
+      "count": 142,
+      "sizeMB": 0.12
+    },
+    {
+      "order": "Gobiesociformes",
+      "file": "data/species/Gobiesociformes.json",
+      "count": 195,
+      "sizeMB": 0.17
+    },
+    {
+      "order": "Gobiiformes",
+      "file": "data/species/Gobiiformes.json",
+      "count": 2510,
+      "sizeMB": 2.01
+    },
+    {
+      "order": "Gonorynchiformes",
+      "file": "data/species/Gonorynchiformes.json",
+      "count": 41,
+      "sizeMB": 0.04
+    },
+    {
+      "order": "Gymnotiformes",
+      "file": "data/species/Gymnotiformes.json",
+      "count": 284,
+      "sizeMB": 0.24
+    },
+    {
+      "order": "Heterodontiformes",
+      "file": "data/species/Heterodontiformes.json",
+      "count": 10,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Hexanchiformes",
+      "file": "data/species/Hexanchiformes.json",
+      "count": 7,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Hiodontiformes",
+      "file": "data/species/Hiodontiformes.json",
+      "count": 2,
+      "sizeMB": 0.0
+    },
+    {
+      "order": "Holocentriformes",
+      "file": "data/species/Holocentriformes.json",
+      "count": 98,
+      "sizeMB": 0.09
+    },
+    {
+      "order": "Incertae_sedis",
+      "file": "data/species/Incertae_sedis.json",
+      "count": 1565,
+      "sizeMB": 1.39
+    },
+    {
+      "order": "Labriformes",
+      "file": "data/species/Labriformes.json",
+      "count": 697,
+      "sizeMB": 0.63
+    },
+    {
+      "order": "Lamniformes",
+      "file": "data/species/Lamniformes.json",
+      "count": 16,
+      "sizeMB": 0.02
+    },
+    {
+      "order": "Lampriformes",
+      "file": "data/species/Lampriformes.json",
+      "count": 27,
+      "sizeMB": 0.02
+    },
+    {
+      "order": "Lepidogalaxiiformes",
+      "file": "data/species/Lepidogalaxiiformes.json",
+      "count": 1,
+      "sizeMB": 0.0
+    },
+    {
+      "order": "Lepisosteiformes",
+      "file": "data/species/Lepisosteiformes.json",
+      "count": 7,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Lobotiformes",
+      "file": "data/species/Lobotiformes.json",
+      "count": 16,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Lophiiformes",
+      "file": "data/species/Lophiiformes.json",
+      "count": 421,
+      "sizeMB": 0.37
+    },
+    {
+      "order": "Moroniformes",
+      "file": "data/species/Moroniformes.json",
+      "count": 47,
+      "sizeMB": 0.04
+    },
+    {
+      "order": "Mugiliformes",
+      "file": "data/species/Mugiliformes.json",
+      "count": 139,
+      "sizeMB": 0.12
+    },
+    {
+      "order": "Mulliformes",
+      "file": "data/species/Mulliformes.json",
+      "count": 105,
+      "sizeMB": 0.09
+    },
+    {
+      "order": "Myctophiformes",
+      "file": "data/species/Myctophiformes.json",
+      "count": 306,
+      "sizeMB": 0.26
+    },
+    {
+      "order": "Myliobatiformes",
+      "file": "data/species/Myliobatiformes.json",
+      "count": 269,
+      "sizeMB": 0.22
+    },
+    {
+      "order": "Myxiniformes",
+      "file": "data/species/Myxiniformes.json",
+      "count": 93,
+      "sizeMB": 0.08
+    },
+    {
+      "order": "Notacanthiformes",
+      "file": "data/species/Notacanthiformes.json",
+      "count": 29,
+      "sizeMB": 0.03
+    },
+    {
+      "order": "Ophidiiformes",
+      "file": "data/species/Ophidiiformes.json",
+      "count": 613,
+      "sizeMB": 0.54
+    },
+    {
+      "order": "Orectolobiformes",
+      "file": "data/species/Orectolobiformes.json",
+      "count": 46,
+      "sizeMB": 0.04
+    },
+    {
+      "order": "Osmeriformes",
+      "file": "data/species/Osmeriformes.json",
+      "count": 41,
+      "sizeMB": 0.04
+    },
+    {
+      "order": "Osteoglossiformes",
+      "file": "data/species/Osteoglossiformes.json",
+      "count": 268,
+      "sizeMB": 0.24
+    },
+    {
+      "order": "Pempheriformes",
+      "file": "data/species/Pempheriformes.json",
+      "count": 263,
+      "sizeMB": 0.21
+    },
+    {
+      "order": "Perciformes",
+      "file": "data/species/Perciformes.json",
+      "count": 3326,
+      "sizeMB": 2.93
+    },
+    {
+      "order": "Percopsiformes",
+      "file": "data/species/Percopsiformes.json",
+      "count": 18,
+      "sizeMB": 0.02
+    },
+    {
+      "order": "Petromyzontiformes",
+      "file": "data/species/Petromyzontiformes.json",
+      "count": 49,
+      "sizeMB": 0.05
+    },
+    {
+      "order": "Pleuronectiformes",
+      "file": "data/species/Pleuronectiformes.json",
+      "count": 843,
+      "sizeMB": 0.76
+    },
+    {
+      "order": "Polymixiiformes",
+      "file": "data/species/Polymixiiformes.json",
+      "count": 13,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Polynemiformes",
+      "file": "data/species/Polynemiformes.json",
+      "count": 43,
+      "sizeMB": 0.04
+    },
+    {
+      "order": "Polypteriformes",
+      "file": "data/species/Polypteriformes.json",
+      "count": 14,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Priacanthiformes",
+      "file": "data/species/Priacanthiformes.json",
+      "count": 74,
+      "sizeMB": 0.06
+    },
+    {
+      "order": "Pristiophoriformes",
+      "file": "data/species/Pristiophoriformes.json",
+      "count": 10,
+      "sizeMB": 0.01
+    },
+    {
+      "order": "Rajiformes",
+      "file": "data/species/Rajiformes.json",
+      "count": 316,
+      "sizeMB": 0.28
+    },
+    {
+      "order": "Rhinopristiformes",
+      "file": "data/species/Rhinopristiformes.json",
+      "count": 70,
+      "sizeMB": 0.07
+    },
+    {
+      "order": "Salmoniformes",
+      "file": "data/species/Salmoniformes.json",
+      "count": 257,
+      "sizeMB": 0.23
+    },
+    {
+      "order": "Scombriformes",
+      "file": "data/species/Scombriformes.json",
+      "count": 285,
+      "sizeMB": 0.25
+    },
+    {
+      "order": "Siluriformes",
+      "file": "data/species/Siluriformes.json",
+      "count": 4403,
+      "sizeMB": 3.84
+    },
+    {
+      "order": "Spariformes",
+      "file": "data/species/Spariformes.json",
+      "count": 288,
+      "sizeMB": 0.25
+    },
+    {
+      "order": "Sphyraeniformes",
+      "file": "data/species/Sphyraeniformes.json",
+      "count": 59,
+      "sizeMB": 0.05
+    },
+    {
+      "order": "Squaliformes",
+      "file": "data/species/Squaliformes.json",
+      "count": 152,
+      "sizeMB": 0.13
+    },
+    {
+      "order": "Squatiniformes",
+      "file": "data/species/Squatiniformes.json",
+      "count": 25,
+      "sizeMB": 0.02
+    },
+    {
+      "order": "Stomiiformes",
+      "file": "data/species/Stomiiformes.json",
+      "count": 467,
+      "sizeMB": 0.4
+    },
+    {
+      "order": "Synbranchiformes",
+      "file": "data/species/Synbranchiformes.json",
+      "count": 139,
+      "sizeMB": 0.12
+    },
+    {
+      "order": "Syngnathiformes",
+      "file": "data/species/Syngnathiformes.json",
+      "count": 342,
+      "sizeMB": 0.31
+    },
+    {
+      "order": "Tetraodontiformes",
+      "file": "data/species/Tetraodontiformes.json",
+      "count": 445,
+      "sizeMB": 0.41
+    },
+    {
+      "order": "Torpediniformes",
+      "file": "data/species/Torpediniformes.json",
+      "count": 73,
+      "sizeMB": 0.07
+    },
+    {
+      "order": "Trachichthyiformes",
+      "file": "data/species/Trachichthyiformes.json",
+      "count": 75,
+      "sizeMB": 0.07
+    },
+    {
+      "order": "Uranoscopiformes",
+      "file": "data/species/Uranoscopiformes.json",
+      "count": 220,
+      "sizeMB": 0.18
+    },
+    {
+      "order": "Zeiformes",
+      "file": "data/species/Zeiformes.json",
+      "count": 37,
+      "sizeMB": 0.03
+    }
+  ]
+}

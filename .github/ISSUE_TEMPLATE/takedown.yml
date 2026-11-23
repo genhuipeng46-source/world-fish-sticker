@@ -1,0 +1,20 @@
+name: 参考照片撤图申请 / Reference photo takedown
+description: 如果您的照片被用作参考照而您不希望如此，请在此提交，我们将在 7 天内替换贴纸 / Request replacement of a sticker within 7 days
+labels: ["takedown"]
+body:
+  - type: input
+    id: species
+    attributes:
+      label: 物种学名或贴纸路径 / Scientific name or sticker path
+    validations:
+      required: true
+  - type: input
+    id: photo_url
+    attributes:
+      label: 您的照片链接 / Link to your photograph
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: 补充说明（可选） / Additional notes (optional)

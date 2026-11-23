@@ -1,0 +1,22 @@
+name: 贴纸画错 / Sticker error
+description: 报告某张鱼类贴纸画错了形态、鳍位、体色或画成了别的种 / Report an inaccurate fish sticker
+labels: ["sticker-error"]
+body:
+  - type: input
+    id: species
+    attributes:
+      label: 物种学名或 ID / Scientific name or ID
+      placeholder: "例如 Amphiprion ocellaris"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 哪里画错了？ / What is wrong?
+      description: 尽量写具体（如背鳍数量、脂鳍有无、须的对数、斑纹位置、与近缘种的区别）
+    validations:
+      required: true
+  - type: input
+    id: ref
+    attributes:
+      label: 参考链接或照片（可选） / Reference link (optional)

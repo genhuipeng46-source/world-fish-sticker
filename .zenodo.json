@@ -1,0 +1,12 @@
+{
+  "title": "world-fish-sticker: AI-generated field-guide illustrations and open dataset for extant fish species",
+  "upload_type": "dataset",
+  "version": "0.1.0-skeleton",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "world-fish-sticker contributors"
+    }
+  ],
+  "description": "Open-licensed dataset and AI-generated field-guide style stickers for extant fish species, aligned with Catalogue of Life (CC BY 4.0) and Wikidata (CC0)."
+}

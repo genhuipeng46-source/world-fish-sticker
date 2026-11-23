@@ -1,0 +1,23 @@
+name: 鱼名错误 / Name error
+description: 报告中文名、英文名或其他语种鱼名的错误或缺失 / Report a missing or incorrect common name
+labels: ["name-error"]
+body:
+  - type: input
+    id: species
+    attributes:
+      label: 物种学名 / Scientific name
+    validations:
+      required: true
+  - type: input
+    id: lang
+    attributes:
+      label: 语种 / Language
+      placeholder: "zh-Hans / zh-Hant / en / ..."
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 建议修改为及依据 / Suggested correction and source
+    validations:
+      required: true

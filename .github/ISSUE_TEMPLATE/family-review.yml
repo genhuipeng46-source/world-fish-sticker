@@ -1,0 +1,17 @@
+name: 帮忙审一个科 / Review a family
+description: 熟悉某一科鱼类？逐条指出这个科里画错的贴纸 / Review stickers for a fish family you know well
+labels: ["family-review"]
+body:
+  - type: input
+    id: family
+    attributes:
+      label: 科名 / Family name
+      placeholder: "例如 Cyprinidae / 鲤科"
+    validations:
+      required: true
+  - type: textarea
+    id: findings
+    attributes:
+      label: 需要重画的物种及问题 / Species needing regeneration and what is wrong
+    validations:
+      required: true
